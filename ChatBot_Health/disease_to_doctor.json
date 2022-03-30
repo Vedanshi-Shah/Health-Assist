@@ -1,0 +1,18 @@
+{
+    "Cholecystitis" : "General Surgeon",
+    "Gall Stone Obstruction" : "General Surgeon",
+    "Hepatitis" : "Physician",
+    "Amoebic Abscess" : "General Surgeon",
+    "Gasteric Ulcer" : "General Surgeon",
+    "Pancreatitis" : "General Surgeon",
+    "Colitis" : "Physician",
+    "Kidney Stone" : "General Surgeon",
+    "Peretonitis" : "General Surgeon",
+    "Gastroenteritis" : "Physician",
+    "Appendicitis" : "General Surgeon",
+    "Ischemia" : "Physician",
+    "Reflux Oesophagitis" : "General Surgeon",
+    "Pleuritis" : "Physician",
+    "Rib Fracture" : "General Surgeon",
+    "Chostochondritis" : "Physician"
+}
