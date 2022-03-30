@@ -2,7 +2,7 @@
  <br/>
  
  <p align="center">
-  <a href="https://https://github.com/harshmohan07/Health-Assist/">
+  <a href="https://github.com/harshmohan07/Health-Assist">
     <img src="Screenshots/healthassistlogo.PNG" alt="Logo" width="420" height="420"></a></p>
  
  <p align="center">
